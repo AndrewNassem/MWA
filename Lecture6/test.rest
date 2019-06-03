@@ -1,0 +1,13 @@
+POST http://localhost:4000
+content-type: application/json
+
+{
+    "id": 5, 
+    "name": "Beshoy Christain",
+    "course": "CS572",
+    "grade": 101
+}
+
+
+Delete http://localhost:4000?
+content-type: application/json
