@@ -1,0 +1,5 @@
+POST http://localhost:3000/add
+content-type: application/json
+
+{"course" :"cs572" , "lecture" :"lecture2" }
+
